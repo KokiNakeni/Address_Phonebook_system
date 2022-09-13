@@ -12,5 +12,8 @@ The Database fields used are;
 - Surname
 - Age and Birthday
 - Telephone numbers incl. Country Code
-- Addresses incl. Country/State/City
-
+- Addresses including. Country/State/City
+Acknowledgements
+[Awesome MVC Templates]https://www.c-sharpcorner.com/article/entity-framework-with-net-core-mvc-4-code-first/
+[Awesome README]https://readme.so/editor
+[Cool MVC CRUD patterns]https://www.youtube.com/watch?v=Fbf_ua2t6v4
