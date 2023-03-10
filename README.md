@@ -6,7 +6,7 @@ Istallation settings:
 Install Visual Studio 2022/19/17
 SQL Server Maagement Studio 
 
-The project is built with the intention of maximum usaility and scalability,it entails Dats migration and seeding techniques.
+The project is built with the intention of maximum usability and scalability,it entails Data migration and seeding techniques.
 The project Displays, Adds,deletes contacts onto the system for maximum and efficient managemet of your contacts.
 
 Properties of the database include: First Name, Surname, Age, Birthday, telephone number country code,address,state ad city.
